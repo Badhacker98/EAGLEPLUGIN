@@ -95,7 +95,7 @@ async def _(event):
         "header": "To Take a screenshot of a website.",
         "description": "For functioning of this command you need to set SCREEN_SHOT_LAYER_ACCESS_KEY var",
         "usage": "{tr}scapture <link>",
-        "examples": "{tr}scapture https://github.com/Badhacker98/EAGLEBOT,
+        "examples": "{tr}scapture https://github.com/Badhacker98/EAGLEBOT",
     },
 )
 async def _(event):
